@@ -25,7 +25,7 @@ By this:
                 };
             });
 
-In the code, by default, I expect the database table to have a "CultureName" and a "RersourceKey" columns.
+In the code, by default, it expects the database table to have a "CultureName" and a "RersourceKey" columns.
 
 It works for IHtmlLocalizer, IViewLocalizer, DataAnnotations... it really just replaces the regular system.
 
@@ -35,4 +35,4 @@ Create a new class that implements the IDataManager interface and modify the "Cu
 
 If you need different parameters to be passed from your application to the class library, you can send whatever you want. It is a regular dictionnary. You can freely use the provided "SqlDataManager" as inspiration to see how to use it.
 
-Enjoy ;)
+Enjoy it ;)
