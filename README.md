@@ -25,7 +25,7 @@ By this:
                 };
             });
 
-In the code, by default, I expect the database table to have a CultureName and a RersourceKey columns.
+In the code, by default, I expect the database table to have a "CultureName" and a "RersourceKey" columns.
 
 It works for IHtmlLocalizer, IViewLocalizer, DataAnnotations... it really just replaces the regular system.
 
