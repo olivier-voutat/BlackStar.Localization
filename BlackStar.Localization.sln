@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackStar.Localization", "BlackStar.Localization\BlackStar.Localization.csproj", "{1A4E642D-A311-45FF-ABDB-7687F0F428D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackStar.Localization", "BlackStar.Localization\BlackStar.Localization.csproj", "{1A4E642D-A311-45FF-ABDB-7687F0F428D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{81FAA9C3-BD46-4613-A922-E2707F4C1C7A}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

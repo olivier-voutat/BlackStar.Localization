@@ -1,5 +1,5 @@
 # BlackStar.Localization
-Custom Localization (using Microsoft SQL but can easily be modified)
+Custom Localization for AspNetCore 2.0 (using Microsoft SQL database). Can be easily adapted to include other sources.
 
 In AspNet Core, there is a wonderful localization system already available.
 

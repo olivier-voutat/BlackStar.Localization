@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Oliver Voutat</Authors>
+    <Company />
+    <Description>Custom Localization for AspNetCore 2.0 (using Microsoft SQL database). Can be easily adapted to include other sources. Download source code from the project site to do it.</Description>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/olivier-voutat/BlackStar.Localization</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright 2017</Copyright>
+    <PackageReleaseNotes>Instructions about the default localization system using resource files can be found here:
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization
+Instructions about how to use this package can be found here:
+https://github.com/olivier-voutat/BlackStar.Localization/blob/master/README.md</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
