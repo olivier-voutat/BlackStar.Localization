@@ -1,6 +1,8 @@
 # BlackStar.Localization
 Custom Localization for AspNetCore 2.0 (using Microsoft SQL database). Can be easily adapted to include other sources.
 
+A nuget package is available for it (https://www.nuget.org/packages/BlackStar.Localization/1.0.0).
+
 In AspNet Core, there is a wonderful localization system already available.
 
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization
